@@ -9,6 +9,7 @@ I invite anyone to use this small project to learn singly linked list or to incr
 A singly linked list is a type of data structure that is made up of nodes that are created using self-referential structures. Each node contains a data element and a reference (link) to the next node in the sequence. This allows for a dynamic and efficient approach to managing collections of data.
 
 The list gets its name from the way it only links in one direction from one node to the next. The start of the linked list is referred to as the head, and the end of the list is known as the tail.
+
 <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200922124319/Singly-Linked-List1.png" alt="Singly Linked List">
 ### Why use a Singly Linked List?
 
@@ -37,6 +38,8 @@ Furthermore, when implementing the `clone()` method in the `CellPhone` class, we
 In addition to these specific measures, it's important to follow secure coding practices in general. This includes practices like validating and sanitizing input data, using secure functions for handling data, and regularly reviewing and updating the code to address potential security vulnerabilities.
 
 Remember, security is not a one-time task, but an ongoing process. It's important to keep up to date with the latest security threats and mitigation strategies, and to regularly review and update your code to ensure it remains secure.
+
+<img src="https://imageio.forbes.com/specials-images/imageserve/65aebd3ac11780d4dcfde276/Red-circuit-board-background--open-padlock-displayed-alongside--data-leak--and/960x0.jpg?format=jpg&width=960" alt="Singly Linked List">
 
 ## Classes
 
