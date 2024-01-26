@@ -22,7 +22,7 @@ More specifically, in this project, we use a singly linked list to manage a coll
 
 You will see different methods created for the sole purpose of showing how easy it is to manipulate such a powerful data structure. Writing a linked list method isn't a by heart thing. If you truly understand the logic, every time you write a linked list the method will look slightly different, because there are hundreds of ways to make a method doing exactly the same thing.
 
-One more intersting aspect of this project worth noting is security/data leaks. This is something very important in Java and in program. Please read below.
+One more intersting aspect of this project worth noting is security/data leaks. This is something very important in Java and in programing. Please read below.
 
 ## Security Considerations
 
