@@ -17,7 +17,7 @@ Singly linked lists are particularly useful in situations where you need to main
 
 This is particularly useful in certain scenarios like managing a real-time system where system resources need to be quickly and efficiently re-allocated or de-allocated.
 
-In this project, we use a singly linked list to manage a collection of `CellPhone` objects. It provides an efficient way to add, remove, find, and display the `CellPhone` objects.
+More specifically, in this project, we use a singly linked list to manage a collection of `CellPhone` objects. It provides an efficient way to add, remove, find, and display the `CellPhone` objects. This is a perfect real life example of using a linked list.
 
 You will see different methods created for the sole purpose of showing how easy it is to manipulate such a powerful data structure. Writing a linked list method isn't a by heart thing. If you truly understand the logic, every time you write a linked list the method will look slightly different, because there are hundreds of ways to make a method doing exactly the same thing.
 
@@ -57,7 +57,7 @@ The program reads from a file named "Cell_Info.txt", creates `CellPhone` objects
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change. If you have any knowledge to add to the read me, please feel free to pull request.
 
 ## GitHub
 
