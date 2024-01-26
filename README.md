@@ -9,7 +9,7 @@ I invite anyone to use this small project to learn singly linked list or to incr
 A singly linked list is a type of data structure that is made up of nodes that are created using self-referential structures. Each node contains a data element and a reference (link) to the next node in the sequence. This allows for a dynamic and efficient approach to managing collections of data.
 
 The list gets its name from the way it only links in one direction from one node to the next. The start of the linked list is referred to as the head, and the end of the list is known as the tail.
-
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200922124319/Singly-Linked-List1.png" alt="Singly Linked List">
 ### Why use a Singly Linked List?
 
 Singly linked lists are particularly useful in situations where you need to maintain an ordered collection of elements, but the precise sequence or number of elements may not be known in advance. They allow for efficient insertions or deletions from the list without having to reorganize the entire data structure.
