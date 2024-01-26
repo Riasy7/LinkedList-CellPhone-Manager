@@ -39,7 +39,7 @@ In addition to these specific measures, it's important to follow secure coding p
 
 Remember, security is not a one-time task, but an ongoing process. It's important to keep up to date with the latest security threats and mitigation strategies, and to regularly review and update your code to ensure it remains secure.
 
-<img src="https://imageio.forbes.com/specials-images/imageserve/65aebd3ac11780d4dcfde276/Red-circuit-board-background--open-padlock-displayed-alongside--data-leak--and/960x0.jpg?format=jpg&width=960" alt="Singly Linked List" width = 200px>
+<img src="https://imageio.forbes.com/specials-images/imageserve/65aebd3ac11780d4dcfde276/Red-circuit-board-background--open-padlock-displayed-alongside--data-leak--and/960x0.jpg?format=jpg&width=960" alt="Singly Linked List" width = 600px>
 
 ## Classes
 
