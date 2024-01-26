@@ -27,9 +27,13 @@ One more intersting aspect of this project worth noting is security/data leaks. 
 
 In the context of this project, one of the main security considerations is the prevention of data leaks. As we're dealing with sensitive data like cell phone serial numbers, it's crucial to ensure that this data is handled securely.
 
+A direct example of a security leak in a linked list, is if someone can create any instance of your node and then edit that node, delete that node from the linkedlist. So, we make the node inner class private so that no instance can be created so that no methods can be used with that created instance. 
+
+A real life example would be if someone were to change a linked list of bank information, imagine that person could just set one of the nodes (bank account) to have -100$. This would be a major security leak.
+
 ### Avoiding Security Leaks
 
-One way we've addressed this in the project is by ensuring that the `CellPhone` objects are not directly accessible from outside the `CellList` class. This encapsulation prevents unauthorized access to the data.
+One way we've addressed this in the project is by ensuring that the `CellPhone` objects are not directly accessible from outside the `CellList` class. This encapsulation prevents unauthorized access to the data. This is possible by setting the inner class to private, since its use is only needed to the outer class and it being private won't restrict it's access from the outer class.
 
 Furthermore, when implementing the `clone()` method in the `CellPhone` class, we've ensured that it creates a deep copy of the object. This means that it creates a new `CellPhone` object with the same data, rather than just copying the reference to the existing object. This prevents potential security leaks that could occur if the original object were modified after being cloned.
 
